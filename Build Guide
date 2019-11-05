@@ -1,0 +1,10 @@
+Directories
+
+-public: houses our index.html and any static assets.
+
+Tasks:
+-Name Bundle.js script in index.html, and make it work
+
+References:
+https://blog.usejournal.com/creating-a-react-app-from-scratch-f3c693b84658
+
